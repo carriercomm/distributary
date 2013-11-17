@@ -9,8 +9,8 @@ describe('epicenter', function () {
   });
 
   it('should instancy module', function(done) {
-    console.log(epicenter);
-    epicenter.should.be.a('function');
+    epicenter.should.be.a('object');
+    epicenter.should.have.run;
     done();
   });
   
