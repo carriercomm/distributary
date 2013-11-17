@@ -1,0 +1,37 @@
+{
+  "name": "epicenter",
+  "description": "Headless Termcast message passing",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jasonmay/epicenter",
+  "author": {
+    "name": "Jason May",
+    "email": "jason.a.may@gmail.com",
+    "url": "http://termcast.jmay.me/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasonmay/epicenter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jasonmay/epicenter/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jasonmay/epicenter/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/epicenter",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": []
+}
