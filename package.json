@@ -31,7 +31,7 @@
   "dependencies": {},
   "devDependencies": {
     "mocha": "*",
-    "should": "*"
+    "chai": "*"
   },
   "keywords": []
 }
