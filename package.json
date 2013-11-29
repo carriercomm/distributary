@@ -1,8 +1,8 @@
 {
-  "name": "epicenter",
+  "name": "distributary",
   "description": "Headless Termcast message passing",
   "version": "0.1.0",
-  "homepage": "https://github.com/jasonmay/epicenter",
+  "homepage": "https://github.com/jasonmay/distributary",
   "author": {
     "name": "Jason May",
     "email": "jason.a.may@gmail.com",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jasonmay/epicenter.git"
+    "url": "git://github.com/jasonmay/distributary.git"
   },
   "bugs": {
-    "url": "https://github.com/jasonmay/epicenter/issues"
+    "url": "https://github.com/jasonmay/distributary/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/jasonmay/epicenter/blob/master/LICENSE-MIT"
+      "url": "https://github.com/jasonmay/distributary/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/epicenter",
+  "main": "lib/distributary",
   "engines": {
     "node": ">= 0.8.0"
   },

@@ -1,1 +1,1 @@
-require('./lib/epicenter').run();
+require('./lib/distributary').run();
