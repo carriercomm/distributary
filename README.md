@@ -1,7 +1,7 @@
 distributary
 ============
 
-Headless termcast ANSI passing
+Headless ANSI passing
 
 Notes:
 
